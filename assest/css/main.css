@@ -1,0 +1,67 @@
+
+.main-div{
+
+    background-image: linear-gradient(rgba(5, 5, 5, 0.0), rgba(222, 130, 81, 0.1)), url("../imge/298198722_748334996450666_8812895560750203683_n.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.main-div h1{
+    font-family: 'Abril Fatface', cursive;
+font-family: 'Dancing Script', cursive;
+font-size: 50px;
+}
+.linee{
+    height:1px;
+    width: 100px;
+    background-color: black;
+}
+.login{
+    border: 1px solid transparent;
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    background-color: rgb(255, 255, 255,0.8);
+}
+.inside-login{
+    width:450px;
+    height: 365px; 
+    border: 1px solid #E2E0DC;
+}
+.inside-login h2{
+    font-family: 'Abril Fatface', cursive;
+font-family: 'Righteous', cursive;
+}
+.inside-login input{
+
+    width:88%;
+    height: 50px;
+    border: 1px solid #E2E0DC ;
+
+}
+::placeholder{
+  font-size: 15px;
+  font-family: 'Abril Fatface', cursive;
+  font-family: 'Righteous', cursive;
+  color:#B3B1AD;
+}
+.btn-login{
+    width:88%;
+    height: 50px;
+    border: 1px solid #E2E0DC ;
+background-color: black;
+color: white;
+}
+.div-welcome{
+    width:88%;
+    height: 50px;
+    border: 1px solid #E2E0DC ;
+background-color: #9B9891;
+color: white;
+}
+.h3-welcome{
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-size: 18px;
+    color: #9B9891;
+}
